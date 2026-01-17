@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: dffb3f550bf08e84c85068cd33ac747e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1169525336777420649
+    second: Trophee_edited_0
+  - first:
+      213: -7182607430585758207
+    second: Trophee_edited_1
+  - first:
+      213: -2595967650458572707
+    second: Trophee_edited_2
+  - first:
+      213: -7865203322349219933
+    second: Trophee_edited_3
+  - first:
+      213: 4933009124370638579
+    second: Trophee_edited_4
+  - first:
+      213: 1017570073683605717
+    second: Trophee_edited_5
+  - first:
+      213: -205115496324315205
+    second: Trophee_edited_6
+  - first:
+      213: 3652093131195386930
+    second: Trophee_edited_7
+  - first:
+      213: 7203347726713468314
+    second: Trophee_edited_8
+  - first:
+      213: 682672318956560402
+    second: Trophee_edited_9
+  - first:
+      213: 9195330392448552388
+    second: Trophee_edited_10
+  - first:
+      213: -3327992001817008885
+    second: Trophee_edited_11
+  - first:
+      213: -6251133597551695483
+    second: Trophee_edited_12
+  - first:
+      213: 2689657649694166651
+    second: Trophee_edited_13
+  - first:
+      213: 8421123205279952079
+    second: Trophee_edited_14
+  - first:
+      213: -6892025004765538368
+    second: Trophee_edited_15
+  - first:
+      213: -1671577031692645749
+    second: Trophee_edited_16
+  - first:
+      213: -739806338754869212
+    second: Trophee_edited_17
+  - first:
+      213: 8055477830106267709
+    second: Trophee_edited_18
+  - first:
+      213: 3860478963304540889
+    second: Trophee_edited_19
+  - first:
+      213: -6236921784260045088
+    second: Trophee_edited_20
+  - first:
+      213: -5744628769571936371
+    second: Trophee_edited_21
+  - first:
+      213: 1576356037295677837
+    second: Trophee_edited_22
+  - first:
+      213: 8865356842181854154
+    second: Trophee_edited_23
+  - first:
+      213: -4682456360174154416
+    second: Trophee_edited_24
+  - first:
+      213: 6455213414804539163
+    second: Trophee_edited_25
+  - first:
+      213: -1253058926714595013
+    second: Trophee_edited_26
+  - first:
+      213: -1830266669217766572
+    second: Trophee_edited_27
+  - first:
+      213: 8735520746085694824
+    second: Trophee_edited_28
+  - first:
+      213: 5905388603908707652
+    second: Trophee_edited_29
+  - first:
+      213: 6202902196934880614
+    second: Trophee_edited_30
+  - first:
+      213: -3866252601684387997
+    second: Trophee_edited_31
+  - first:
+      213: 8401066859279690424
+    second: Trophee_edited_32
+  - first:
+      213: -6670784864048186156
+    second: Trophee_edited_33
+  - first:
+      213: -5364769966601120985
+    second: Trophee_edited_34
+  - first:
+      213: 2291900056871683422
+    second: Trophee_edited_35
+  - first:
+      213: -566270314979092357
+    second: Trophee_edited_36
+  - first:
+      213: 3439810921544478821
+    second: Trophee_edited_37
+  - first:
+      213: -2572643339017978311
+    second: Trophee_edited_38
+  - first:
+      213: 1303201144128558893
+    second: Trophee_edited_39
+  - first:
+      213: 7733805465602396149
+    second: Trophee_edited_40
+  - first:
+      213: -2791609637126497115
+    second: Trophee_edited_41
+  - first:
+      213: -3607985089857725866
+    second: Trophee_edited_42
+  - first:
+      213: 3182073292206667079
+    second: Trophee_edited_43
+  - first:
+      213: 2555218336262509460
+    second: Trophee_edited_44
+  - first:
+      213: -4133009552565378375
+    second: Trophee_edited_45
+  - first:
+      213: -8137354752939041671
+    second: Trophee_edited_46
+  - first:
+      213: -3962941893328057210
+    second: Trophee_edited_47
+  - first:
+      213: 921156069008857224
+    second: Trophee_edited_48
+  - first:
+      213: -234515763906011285
+    second: Trophee_edited_49
+  - first:
+      213: -6416999039587789384
+    second: Trophee_edited_50
+  - first:
+      213: -1146642961291510340
+    second: Trophee_edited_51
+  - first:
+      213: 7502891767229059397
+    second: Trophee_edited_52
+  - first:
+      213: -4067545628209982410
+    second: Trophee_edited_53
+  - first:
+      213: -8418984772620630719
+    second: Trophee_edited_54
+  - first:
+      213: 1571226552849095490
+    second: Trophee_edited_55
+  - first:
+      213: 4223387481044484077
+    second: Trophee_edited_56
+  - first:
+      213: 7105444441378105735
+    second: Trophee_edited_57
+  - first:
+      213: -1808867268334761059
+    second: Trophee_edited_58
+  - first:
+      213: -6657436032348215881
+    second: Trophee_edited_59
+  - first:
+      213: -1413916163443408789
+    second: Trophee_edited_60
+  - first:
+      213: 3102631886581432309
+    second: Trophee_edited_61
+  - first:
+      213: -9130376501266786774
+    second: Trophee_edited_62
+  - first:
+      213: 1824015679284357773
+    second: Trophee_edited_63
+  - first:
+      213: 1623441340265836694
+    second: Trophee_edited_64
+  - first:
+      213: -4272756056165068581
+    second: Trophee_edited_65
+  - first:
+      213: 1324856288105151027
+    second: Trophee_edited_66
+  - first:
+      213: 8020577540239702367
+    second: Trophee_edited_67
+  - first:
+      213: 459679068697669934
+    second: Trophee_edited_68
+  - first:
+      213: -1518854086929670543
+    second: Trophee_edited_69
+  - first:
+      213: 6454417865714231423
+    second: Trophee_edited_70
+  - first:
+      213: -4561385863647120811
+    second: Trophee_edited_71
+  - first:
+      213: 2213376235506658102
+    second: Trophee_edited_72
+  - first:
+      213: -6449998869986017052
+    second: Trophee_edited_73
+  - first:
+      213: -4882080775162617762
+    second: Trophee_edited_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trophee_edited_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fef6ee81dfa3010800000000000000
+      internalID: 1169525336777420649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trophee_edited_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 650
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ecad2d890425c90800000000000000
+      internalID: -7182607430585758207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trophee_edited_2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 650
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58e20a0d2549fbd0800000000000000
+      internalID: -2595967650458572707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trophee_edited_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af072dff3f29d290800000000000000
+      internalID: -7865203322349219933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trophee_edited_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 325
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f66fd399a1957440800000000000000
+      internalID: 4933009124370638579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trophee_edited_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 325
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8baf737922f1e00800000000000000
+      internalID: 1017570073683605717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trophee_edited_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb749a7fa88472df0800000000000000
+      internalID: -205115496324315205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trophee_edited_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c8b8b6a57dea230800000000000000
+      internalID: 3652093131195386930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trophee_edited_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 324
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95bf5ca79e67f360800000000000000
+      internalID: 7203347726713468314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 210f13a9c80b1254cafdc7cc43ceedce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":324.0,"y":325.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Trophee_edited_0: 1169525336777420649
+      Trophee_edited_1: -7182607430585758207
+      Trophee_edited_2: -2595967650458572707
+      Trophee_edited_3: -7865203322349219933
+      Trophee_edited_4: 4933009124370638579
+      Trophee_edited_5: 1017570073683605717
+      Trophee_edited_6: -205115496324315205
+      Trophee_edited_7: 3652093131195386930
+      Trophee_edited_8: 7203347726713468314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
